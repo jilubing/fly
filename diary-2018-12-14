@@ -1,0 +1,4 @@
+How to create a git:
+	a)	mkdir dirname
+	b)	git conifg --global user.email "you@example.com"
+	c)	git conifg --global user.name "Your Name"
